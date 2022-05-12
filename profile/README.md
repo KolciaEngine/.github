@@ -20,4 +20,4 @@ It's main aim to provide a stable and high-quality experience for game developer
 
 - Cross-platform* experience
 
-- V ecosystem
+- [V ecosystem](https://vpm.vlang.io/)
