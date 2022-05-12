@@ -1,12 +1,23 @@
-## Hi there 👋
+# KolciaEngine - 3D-only game engine, written in V programming language.
 
-<!--
+It's main aim to provide a stable and high-quality experience for game developers and scientists.
 
-**Here are some ideas to get you started:**
+## 3 main postulates of KolciaEngine
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- TDD - maximization of a code covered by tests to provide stable and as much as possible bug-free development experience.
+
+- Documentation - since KolciaEngine is a tool for other developers, it need to be documented and how-to guided, so people can understand clearly how to achieve X with the tool. As a documentation framework [Diátaxis](https://diataxis.fr/) will be used.
+
+- Real-world example driven development - every feature and module will be based on real-world project to prevent hollow or useless features.
+
+## Things which direct development process
+
+- Open-source philosophy
+
+- Performance first ([V](https://vlang.io/), ECS, [Vulkan](https://www.vulkan.org/))
+
+- Modularity
+
+- Cross-platform* experience
+
+- V ecosystem
