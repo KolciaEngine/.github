@@ -1,8 +1,8 @@
 # KolciaEngine - 3D-only game engine, written in V programming language.
 
-It's main aim to provide a stable and high-quality experience for game developers and scientists.
+[It's main aim](https://github.com/KolciaEngine/organization-wiki/wiki/Why-do-KolciaEngine-exists%3F) to provide a stable and high-quality experience for game developers and scientists.
 
-## 3 main postulates of KolciaEngine
+## [3 main postulates](https://github.com/KolciaEngine/organization-wiki/wiki/Main-postualtes) of KolciaEngine
 
 - TDD - maximization of a code covered by tests to provide stable and as much as possible bug-free development experience.
 
@@ -10,7 +10,7 @@ It's main aim to provide a stable and high-quality experience for game developer
 
 - Real-world example driven development - every feature and module will be based on real-world project to prevent hollow or useless features.
 
-## Things which direct development process
+## [Things](https://github.com/KolciaEngine/organization-wiki/wiki/Things-which-direct-development-process) which direct development process
 
 - Open-source philosophy
 
