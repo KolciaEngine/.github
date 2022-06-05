@@ -1,6 +1,6 @@
 # KolciaEngine - 3D-only game engine, written in V programming language.
 
-[It's main aim](https://github.com/KolciaEngine/organization-wiki/wiki/Why-do-KolciaEngine-exists%3F) to provide a stable and high-quality experience for game developers and scientists.
+[It's main aim](https://github.com/KolciaEngine/organization-wiki/wiki/Why-does-KolciaEngine-exist%3F) to provide a stable and high-quality experience for game developers and scientists.
 
 ## [3 main postulates](https://github.com/KolciaEngine/organization-wiki/wiki/Main-postualtes) of KolciaEngine
 
